@@ -1,0 +1,28 @@
+{
+	"Ubicaciones geográficas":[
+	{
+		"lugar": "Campeche",
+		"longitud": -90.5237,
+		"latitud": 19.8454,
+		"valorBoleano": true
+	},
+	{
+		"lugar": "Yucatan",
+		"longitud": -89.0503700,
+		"latitud": 19.6930200,
+		"valorBoleano": true
+	},
+	{
+		"lugar": "Quintana Roo",
+		"longitud": -92.7030400,
+		"latitud": 17.3567300,
+		"valorBoleano": true
+	},
+	{
+		"lugar": "Chiapas",
+		"longitud": -93.3810400,
+		"latitud": 17.5565300,
+		"valorBoleano": true
+	}
+]
+}

@@ -1,0 +1,93 @@
+	"liguilla mx":[
+	{
+		"Equipo": "America",
+		"Posicion": 1,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Atlas",
+		"Posicion": 2,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "León",
+		"Posicion": 3,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Tigres",
+		"Posicion": 4,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Santos",
+		"Posicion": 5,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Toluca",
+		"Posicion": 6,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Puebla",
+		"Posicion": 7,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Cruz Azul",
+		"Posicion": 8,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Monterrey",
+		"Posicion": 9,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Guadalajara",
+		"Posicion": 10,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Pumas",
+		"Posicion": 11,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Atl. San Luis",
+		"Posicion": 12,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Mazatlán",
+		"Posicion": 13,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Necaxa",
+		"Posicion": 14,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Pachuca",
+		"Posicion": 15,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Juárez",
+		"Posicion": 16,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Querétaro",
+		"Posicion": 17,
+		"valorBoleano": true
+	},
+	{
+		"Equipo": "Tijuana",
+		"Posicion": 18,
+		"valorBoleano": true
+	}
+]
+}

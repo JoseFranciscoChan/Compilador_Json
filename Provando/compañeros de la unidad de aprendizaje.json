@@ -1,0 +1,67 @@
+	"compañeros de la unidad de aprendizaje":[
+	{
+		"Nomnre": "Jose A",
+		"Apellido paterno": "Aguilar",
+		"Apellido Materno": "Contreras",
+		"Edad": 21,
+		"Sexo": "Masculino",
+		"valorBoleano": true
+	},
+	{
+		"Nomnre": "Erik J",
+		"Apellido paterno": "Canche",
+		"Apellido Materno": "Dominguez",
+		"Edad": 21,
+		"Sexo": "Masculino",
+		"valorBoleano": true
+	},
+	{
+		"Nomnre": "Carlos A",
+		"Apellido paterno": "Capriel",
+		"Apellido Materno": "Gabriel",
+		"Edad": 21,
+		"Sexo": "Masculino",
+		"valorBoleano": true
+	},
+	{
+		"Nomnre": "Martin R",
+		"Apellido paterno": "Cordova",
+		"Apellido Materno": "Santos",
+		"Edad": 21,
+		"Sexo": "Masculino",
+		"valorBoleano": true
+	},
+	{
+		"Nomnre": "Edwin A",
+		"Apellido paterno": "Hernandez",
+		"Apellido Materno": "Estrella",
+		"Edad": 21,
+		"Sexo": "Masculino",
+		"valorBoleano": true
+	},
+	{
+		"Nomnre": "Reyna R",
+		"Apellido paterno": "Hernandez",
+		"Apellido Materno": "Olvera",
+		"Edad": 21,
+		"Sexo": "Femeninoo",
+		"valorBoleano": true
+	},
+	{
+		"Nomnre": "Ramses A",
+		"Apellido paterno": "Maas",
+		"Apellido Materno": "Tejeda",
+		"Edad": 21,
+		"Sexo": "Masculino",
+		"valorBoleano": true
+	},
+	{
+		"Nomnre": "Alana E",
+		"Apellido paterno": "Mian",
+		"Apellido Materno": "Martinez",
+		"Edad": 21,
+		"Sexo": "Masculino",
+		"valorBoleano": true
+	}
+]
+}
